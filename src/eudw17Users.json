@@ -1,0 +1,10 @@
+[
+  {
+    "_id": 1,
+    "firstName": "jean",
+    "lastName": "Doe",
+    "nickname": "jeandoe",
+    "password": "jeandoe",
+    "rightsLevel": 1
+  }
+]
